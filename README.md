@@ -1,5 +1,5 @@
 # SCGeneNetworkGCC
-Symmetry and Complexity in Gene Association Networks Using the Generalized Correlation Coefficient
+Supplemental material of paper Symmetry and Complexity in Gene Association Networks Using the Generalized Correlation Coefficient
 
 # Abstract
 
